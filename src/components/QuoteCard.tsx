@@ -82,7 +82,7 @@ export default function QuoteCard() {
                 </button>
             </div>
 
-            <div className="bg-black/60 p-8 rounded-xl shadow-2xl text-center w-full max-w-md mb-10">
+            {/*<div className="bg-black/60 p-8 rounded-xl shadow-2xl text-center w-full max-w-md mb-10">
                 <h1 className="text-3xl font-bold mb-6 text-white">Crea un mensaje ✨</h1>
                 <div className="relative h-11 w-full min-w-[200px]">
                   <input
@@ -101,7 +101,7 @@ export default function QuoteCard() {
                 >
                   Send
                 </button>
-            </div>
+            </div>*/}
 
             <footer className="w-full max-w-md p-4 bg-white rounded-lg shadow text-center">
                 <hr className="my-4 border-gray-300" />
